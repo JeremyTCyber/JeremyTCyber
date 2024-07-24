@@ -6,8 +6,8 @@
   -[My Final Project in Web Development course](https://github.com/JeremyTCyber/FinalProjectWebDevClass)<br> 
 - <b> Cybersecurity Projects/Home Labs</b><br> 
   -[Virtualization and building a home lab]() -In progress <br>
-  -[Using Kali to exploit Metasploitable2]() -In progress <br>
-  -[Made a Keylogger using python]() -In progress <br>
+  -[Using Kali to exploit Metasploitable2](https://github.com/JeremyTCyber/MetasploitPractice/blob/main/README.md) -In progress <br>
+  -[Making a Keylogger using python]() -In progress <br>
 
 <h2> Education </h2>
 Bachelor of Engineering (B.Eng.) in Information and Communication Technology  - May 2024<br>
