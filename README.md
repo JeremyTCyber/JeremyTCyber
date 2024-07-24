@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development and Cybersecurity Projects:</h2>
 
 - <b>Basic Web development<b><br>
-  -[My Final Project in Web Development course](https://github.com/JeremyTCyber/FinalProjectWebDevClass)<br> 
+  -[Web Development-Course Final](https://github.com/JeremyTCyber/FinalProjectWebDevClass)<br> 
 - <b> Cybersecurity Projects/Home Labs</b><br> 
   -[Virtualization and building a home lab]() -In progress <br>
   -[Using Kali to exploit Metasploitable2](https://github.com/JeremyTCyber/MetasploitPractice/blob/main/README.md) -In progress <br>
