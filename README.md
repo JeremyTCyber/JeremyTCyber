@@ -1,4 +1,4 @@
-<h1>Hi I'm Jeremy, recent college graduate, experienced IT support technician and aspiring cybersecuirty expert </h1>
+<h1>Hi I'm Jeremy, recent college graduate, experienced IT support technician and aspiring cybersecurity expert </h1>
 
 <h2>👨‍💻 Software Development and Cybersecurity Projects:</h2>
 
