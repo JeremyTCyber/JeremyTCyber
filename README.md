@@ -8,6 +8,7 @@
   -[Virtualization and building a home lab]() -In progress <br>
   -[Using Kali to exploit Metasploitable2](https://github.com/JeremyTCyber/MetasploitPractice/blob/main/README.md) -In progress <br>
   -[Making a Keylogger USB using python]() -In progress <br>
+  -[Basic Password Generator]()
   
 
 <h2> Education </h2>
