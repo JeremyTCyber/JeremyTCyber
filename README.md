@@ -8,10 +8,14 @@
   -[Virtualization and building a home lab]() -In progress <br>
   -[Using Kali to exploit Metasploitable2](https://github.com/JeremyTCyber/MetasploitPractice/blob/main/README.md) -In progress <br>
   -[Making a Keylogger USB using python]() -In progress <br>
+  
 
 <h2> Education </h2>
 Bachelor of Engineering (B.Eng.) in Information and Communication Technology  - May 2024<br>
 Master of Engineering (M.E) in Information Technology - May 2025, In progress.<br>
+
+<h2>Cyber Security Skills</h2>
+Using my formal education and CTF's on PicoCTF, Hacker101, and Tryhackme; I am developing skills in SQL injection (SQLi), Cross-site scripting (Xss), cryptogrophy, session hijacking, password cracking, wifi cracking, privilege escalation and more.
 
 
 
